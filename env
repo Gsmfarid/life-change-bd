@@ -1,0 +1,10 @@
+DB_URL=mongodb+srv://life-change:F65754356f@atlascluster.lk4fvnh.mongodb.net/life-change?retryWrites=true&w=majority
+NEXT_PUBLIC_CLOUDINARY_UPLOAD_URL=https://api.cloudinary.com/v1_1/djlpbc9dz/image/upload
+NEXT_PUBLIC_CLOUDINARY_UPLOAD_URL=https://api.cloudinary.com/v1_1/djlpbc9dz/image/upload
+CLOUDINARY_PRESET=yydamwcw
+NEXTAUTH_SECRET="WhS9YGdsxmCJdO5BHttI5zv+3Sev1D3NSRPLbH+jK1I="
+NEXTAUTH_SECRET="WhS9YGdsxmCJdO5BHttI5zv+3Sev1D3NSRPLbH+jK1I="
+GOOGLE_CLIENT_SECRET=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
+GOOGLE_CLIENT_ID=22315955821-sg1osbcn5cv25a8dl0anf0cbs1m9p3cl.apps.googleusercontent.com
+NEXTAUTH_URL=https://lifechangebd.com/
+BASE_URL=https://lifechangebd.com/
